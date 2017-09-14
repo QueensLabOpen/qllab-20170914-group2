@@ -1,15 +1,20 @@
 <template>
   <div id="app">
-    <router-view></router-view>
+    <game></game>
   </div>
 </template>
 
 <script>
   import { utils } from 'pixi.js'
+  import game from 'components/Game.vue'
+
   export default {
     name: 'app',
     mounted () {
       utils.sayHello()
+    },
+    components: {
+      game
     }
   }
 </script>
