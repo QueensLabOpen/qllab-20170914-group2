@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="383.464px" height="398.413px" viewBox="0 0 383.464 398.413"
+	 style="enable-background:new 0 0 383.464 398.413;" xml:space="preserve">
+<rect x="144.23" y="219.151" transform="matrix(0.9517 0.307 -0.307 0.9517 80.2141 -44.4039)" style="fill:#FEDD10;stroke:#FAAF42;stroke-width:2.6146;stroke-miterlimit:10;" width="74.081" height="27.309"/>
+<path style="fill:#FEDD10;stroke:#FAAF42;stroke-width:2.6146;stroke-miterlimit:10;" d="M206.166,342.199
+	c-44.453,13.945-26.664-47.94-81.062-47.94s-47.068,100.238-81.931,61.885c-36.59-40.253,66.458-218.646,88.903-169.096
+	C178.274,289.029,258.069,325.916,206.166,342.199z"/>
+<g>
+	<polygon style="fill:#2A3B8F;" points="232.25,364.63 185.708,388.623 160.187,315.51 218.948,299.176 	"/>
+	<path style="fill:#2A3B8F;" d="M265.806,363.54c1.219,4.382-2.007,9.105-7.204,10.55l-43.429,7.146l-3.728,5.459l-19.654,5.966
+		c-5.197,1.444-7.447-3.265-8.666-7.646l-4.458-16.04c-1.218-4.382-0.962-6.772,4.235-8.217l19.803-5.505l47.027-13.071
+		c5.197-1.445,10.396,0.936,11.615,5.318L265.806,363.54z"/>
+	
+		<rect x="162.107" y="313.899" transform="matrix(0.9635 -0.2678 0.2678 0.9635 -78.1981 63.2102)" style="fill:#FFFFFF;" width="61.008" height="8.716"/>
+</g>
+<g>
+	<polygon style="fill:#2A3B8F;" points="79.999,378.907 27.72,381.854 34.206,304.686 94.523,313.713 	"/>
+	<path style="fill:#2A3B8F;" d="M111.087,391.586c-0.673,4.498-5.543,7.496-10.878,6.698l-42.571-11.17l-5.629,3.466l-20.38-2.561
+		c-5.335-0.799-5.471-6.016-4.798-10.515l2.465-16.465c0.673-4.497,1.881-6.577,7.216-5.777l20.328,3.042l48.271,7.226
+		c5.335,0.799,9.113,5.092,8.44,9.59L111.087,391.586z"/>
+	
+		<rect x="32.193" y="316.049" transform="matrix(0.989 0.148 -0.148 0.989 48.1217 -5.7511)" style="fill:#FFFFFF;" width="61.008" height="8.715"/>
+</g>
+<polygon style="fill:#FEDD10;stroke:#FAAF42;stroke-width:2.6146;stroke-miterlimit:10;" points="110.974,204.386 134.526,274.623 
+	108.635,283.306 92.249,228.263 "/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-1509.4067" y1="1550.3477" x2="-1511.5372" y2="1489.338" gradientTransform="matrix(0.2942 0.5432 -0.7235 0.3918 1880.3853 308.6252)">
+	<stop  offset="0" style="stop-color:#F15B2A"/>
+	<stop  offset="0.6503" style="stop-color:#231F20"/>
+	<a:midPointStop  offset="0" style="stop-color:#F15B2A"/>
+	<a:midPointStop  offset="0.5" style="stop-color:#F15B2A"/>
+	<a:midPointStop  offset="0.6503" style="stop-color:#231F20"/>
+</linearGradient>
+<path style="fill:url(#SVGID_1_);" d="M330.559,31.712c-0.726-6.112-25.107-10.254-28.516,0.789
+	c-19.195,62.193,69.927,126.72,79.6,94.567C393.768,86.766,341.81,126.489,330.559,31.712z"/>
+<path style="fill:none;stroke:#5B4B43;stroke-width:4.4577;stroke-miterlimit:10;" d="M317.862,83.028
+	c-8.209,6.587-38.171,30.739-20.112,47.427c18.061,16.688,34.888-23.713,34.888-23.713"/>
+<line style="fill:none;stroke:#5B4B43;stroke-width:4.4577;stroke-miterlimit:10;" x1="216.305" y1="239.362" x2="297.75" y2="130.455"/>
+<path style="fill:#FED09E;" d="M152.125,115.243l38.384-16.239c-2.955-36.262-33.317-64.77-70.341-64.77
+	c-38.981,0-70.582,31.6-70.582,70.581c0,38.98,31.601,70.581,70.582,70.581c26.177,0,45.223-28.049,56.23-53.491
+	c0.5-1.155,0.982-2.304,1.449-3.445c1.418-3.469,2.682-6.862,3.791-10.099L152.125,115.243z"/>
+<circle style="fill:#FFFFFF;stroke:#231F20;stroke-width:1.4526;stroke-miterlimit:10;" cx="141.665" cy="80.378" r="13.946"/>
+<circle style="fill:#FFFFFF;stroke:#231F20;stroke-width:1.4526;stroke-miterlimit:10;" cx="178.71" cy="70.354" r="13.511"/>
+<circle style="fill:#231F20;" cx="149.074" cy="80.813" r="6.537"/>
+<circle style="fill:#231F20;" cx="185.683" cy="71.226" r="6.538"/>
+<rect x="147.137" y="25.503" transform="matrix(0.8646 -0.5025 0.5025 0.8646 7.7723 93.7877)" style="fill:#EB2227;" width="61.479" height="13.945"/>
+<polygon style="fill:#231F20;stroke:#EB2227;stroke-width:0.204;stroke-miterlimit:10;" points="47.529,116.986 0.461,209.38 
+	37.941,166.669 42.299,203.277 63.219,178.872 80.651,211.994 89.367,172.771 108.543,77.763 "/>
+<path style="fill:#EB2227;" d="M172.854,43.053c-13.808-17.452-35.172-28.651-59.154-28.651c-41.636,0-75.389,33.753-75.389,75.39
+	c0,11.457,2.561,22.314,7.134,32.039L172.854,43.053z"/>
+<path style="fill:#FED09E;" d="M151.577,57.202l42.511,14.076c0,0-1.142-12.88-12.255-19.044
+	C170.718,46.07,151.577,57.202,151.577,57.202z"/>
+<path style="fill:#FED09E;" d="M156.305,66.362l-25.333,32l-6.667-16.667c0,0,0.834-7.666,7.501-13.333s20.499-8,20.499-8
+	L156.305,66.362z"/>
+<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="155.304" y1="66.363" x2="132.304" y2="95.363"/>
+<line style="fill:none;stroke:#000000;stroke-miterlimit:10;" x1="201.456" y1="73.422" x2="166.152" y2="62.304"/>
+</svg>

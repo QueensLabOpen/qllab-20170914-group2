@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="546.51px" height="407.792px" viewBox="0 0 546.51 407.792"
+	 style="enable-background:new 0 0 546.51 407.792;" xml:space="preserve">
+<g>
+	
+		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#FEDD10;stroke:#8B5E3C;stroke-width:3.3647;stroke-miterlimit:10;" points="
+		463.203,337.323 485.866,309.209 467.091,272.315 28.377,362.224 2.404,370.05 9.325,396.966 459.806,343.99 	"/>
+	
+		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#C3996B;stroke:#8B5E3C;stroke-width:3.3647;stroke-miterlimit:10;" points="
+		1.868,370.302 6.364,405.903 449.364,347.452 438.406,290.376 	"/>
+</g>
+<ellipse transform="matrix(-0.9961 0.0882 -0.0882 -0.9961 937.9908 577.6053)" style="fill-rule:evenodd;clip-rule:evenodd;fill:#594A42;" cx="456.235" cy="309.525" rx="62.333" ry="46"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-1126.8853" y1="181.2622" x2="-1015.9277" y2="181.2622" gradientTransform="matrix(-1 0 0 1 -580.375 0)">
+	<stop  offset="0" style="stop-color:#F26522"/>
+	<stop  offset="1" style="stop-color:#FFF200"/>
+	<a:midPointStop  offset="0" style="stop-color:#F26522"/>
+	<a:midPointStop  offset="0.5" style="stop-color:#F26522"/>
+	<a:midPointStop  offset="1" style="stop-color:#FFF200"/>
+</linearGradient>
+<path style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);" d="M435.92,278.758
+	c-3.864,30.555,23.407,55.766,52.28,55.766s45.281-25.773,52.28-55.766c30.497-130.701-65.135-274.457-54.895-247.46
+	C523.925,132.374,445.505,202.952,435.92,278.758z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-1083.8853" y1="153.2622" x2="-972.9277" y2="153.2622" gradientTransform="matrix(-1 0 0 1 -580.375 0)">
+	<stop  offset="0" style="stop-color:#F26522"/>
+	<stop  offset="1" style="stop-color:#FFF200"/>
+	<a:midPointStop  offset="0" style="stop-color:#F26522"/>
+	<a:midPointStop  offset="0.5" style="stop-color:#F26522"/>
+	<a:midPointStop  offset="1" style="stop-color:#FFF200"/>
+</linearGradient>
+<path style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_2_);" d="M392.92,250.758
+	c-3.864,30.555,23.407,55.766,52.28,55.766s45.281-25.773,52.28-55.766c30.497-130.701-65.135-274.457-54.895-247.46
+	C480.925,104.374,402.505,174.952,392.92,250.758z"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-1038.0942" y1="438.3374" x2="-927.1372" y2="438.3374" gradientTransform="matrix(-0.9787 0.2052 0.2052 0.9787 -624.6182 -12.1272)">
+	<stop  offset="0" style="stop-color:#F26522"/>
+	<stop  offset="1" style="stop-color:#FFF200"/>
+	<a:midPointStop  offset="0" style="stop-color:#F26522"/>
+	<a:midPointStop  offset="0.5" style="stop-color:#F26522"/>
+	<a:midPointStop  offset="1" style="stop-color:#FFF200"/>
+</linearGradient>
+<path style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_3_);" d="M500.976,299.375
+	c10.051,29.112-11.467,59.382-39.727,65.307c-28.258,5.924-49.605-15.934-62.609-43.852c-56.667-121.662,7.434-281.981,2.95-253.458
+	C384.806,174.163,476.04,227.148,500.976,299.375z"/>
+</svg>
