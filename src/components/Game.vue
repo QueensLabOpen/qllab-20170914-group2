@@ -1,7 +1,5 @@
 <template>
-  <div class="hello">
-
-  </div>
+  <div class="hello"></div>
 </template>
 
 <script>
@@ -12,7 +10,8 @@
         renderer: null,
         stage: null,
         logo: null,
-        x: 0
+        x: 0,
+        keyState: {}
       }
     },
     name: 'hello',
@@ -27,7 +26,7 @@
 
       PIXI.loader.add('logo', require('../assets/logo.png')).load(this.setup)
 
-      window.addEventListener('keypress', () => {
+      window.addEventListener('keydown', () => {
         this.x += 10
       })
     },
