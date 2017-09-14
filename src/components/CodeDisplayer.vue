@@ -11,7 +11,7 @@
         </div>
         ];
       </div>
-      <div :class="{'is-active': isActive}">this.move = function(x, y){
+      <div :class="{'is-active': moveActive}">this.move = function(x, y){
         }</div>
        <div>this.collectMatches = function (){}</div>
        <div>this.startFire = function(){}</div>
@@ -20,15 +20,17 @@
 
   <div class="consoler"></div>
 </div>
-  
+
 </template>
 
 <script>
 export default {
+  props: {
+    moveActive: Boolean
+  },
   name: 'codeDisplayer',
   data () {
     return {
-      isActive: true,
       world: {
         name: 'woods',
         items: ['firewood'],
@@ -42,15 +44,17 @@ export default {
       }
     }
   }
-  
+
 }
 </script>
 
 <style>
   .wrapper {
-    width: 40%;
-    max-width: 300px;
-
+    width: calc(20% - 44px);
+    display: inline-block;
+    font-size: 0.7em;
+    vertical-align: top;
+    height: calc(100% - 18px);
     border: 1px solid #000;
   }
 

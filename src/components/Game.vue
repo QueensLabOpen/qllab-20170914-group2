@@ -29,7 +29,7 @@
       this.$el.appendChild(this.renderer.view)
       this.stage = new PIXI.Container()
 
-      PIXI.loader.add('whacka', require('../assets/with-backpack.svg')).load(this.setup)
+      PIXI.loader.add('whacka', require('../assets/with-backpack.svg')).add('whackabackwards', require('../assets/without-backpack.svg')).load(this.setup)
     },
     methods: {
       keyListener () {
@@ -37,19 +37,23 @@
 
         window.addEventListener('keydown', (e) => {
           keyState[e.keyCode || e.which] = true
+          this.$emit('toggleActive', true)
         }, true)
 
         window.addEventListener('keyup', (e) => {
           keyState[e.keyCode || e.which] = false
+          this.$emit('toggleActive', false)
         }, true)
 
         setInterval(() => {
           if (keyState[37] || keyState[65]) {
-            this.x -= 3
+            this.x = this.x - 5 - (this.x * 0.01)
+            this.whacka.texture = PIXI.loader.resources['whackabackwards'].texture
           }
 
           if (keyState[39] || keyState[68]) {
-            this.x += 3
+            this.x = this.x + 3 + (this.x * 0.01)
+            this.whacka.texture = PIXI.loader.resources['whacka'].texture
           }
 
           if ((keyState[87] || keyState[38]) && this.y === this.groundLevel) {
@@ -73,7 +77,7 @@
         this.y = this.y - this.pSpeedY
 
         if (this.y < this.groundLevel) {
-          // this.whacka.rotation += window.Math.PI / 15
+          this.whacka.rotation += window.Math.PI / 15
           this.pSpeedY -= 1
         } else {
           this.pSpeedY = 0
@@ -94,6 +98,12 @@
 <style>
   body {
     background: #9c9c9c;
+  }
+
+  .hello {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
   }
 
   canvas {
