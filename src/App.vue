@@ -6,7 +6,7 @@
 
 <script>
   import { utils } from 'pixi.js'
-  import game from 'components/Game.vue'
+  import game from './components/Game.vue'
 
   export default {
     name: 'app',
